@@ -10,8 +10,8 @@ A simple beginner-friendly Spring Boot project for managing students with MySQL 
 ## Setup
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/tarequejosh/spring-boot-student-mgm-sys-crud.git
-   cd spring-boot-student-mgm-sys-crud
+   git clone https://github.com/tarequejosh/springboot-student-crud.git
+   cd springboot-student-crud
    ```
 2. **Configure MySQL:**
    - Make sure MySQL is running.
